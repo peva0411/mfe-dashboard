@@ -1,0 +1,19 @@
+{
+  "name": "mfe-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peva0411/mfe-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peva0411/mfe-dashboard/issues"
+  },
+  "homepage": "https://github.com/peva0411/mfe-dashboard#readme"
+}
